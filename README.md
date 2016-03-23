@@ -1,5 +1,7 @@
 # ZfSimpleMigrations
 
+This is a work in progress fork.
+
 Simple Migrations for Zend Framework 2. Project originally based on [ZendDbMigrations](https://github.com/vadim-knyzev/ZendDbMigrations) but module author did not response for issues and pull-requests so fork became independent project.
 
 ## Supported Drivers
